@@ -5,5 +5,8 @@
 
 My favorite sunday rolls because you prepare them the night before and only bake them in the morning.
 
+## 1 In the evening 
+
+* Mix 510g Wheat Flour Type 510 with 305g water (20°) and let it rest for 30 minutes (no kneading)
 
 
