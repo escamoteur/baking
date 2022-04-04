@@ -3,6 +3,8 @@
 # Baking
 because of repeated requests for my bread and rolls that I post on Twitter I will try to publish my receipes on this repository.
 
+Each recipe is saved as github issue.
+
 All measurements are made in gramms, temperatures are in Celcius!
 Flour types are German types, please google what's the appropriate type for your country
 
@@ -15,8 +17,6 @@ If you are a little experienced I you can increase the amount of water that is u
 If you are looking for a mixer that is good for bread I can recomment Kenwood machines.
 
 To get good baking results I recommend getting a baking stone that you preheat in your oven. The result will be much better as without.
-
-I accept PRs for typos or translations of units :-)
 
 
 ![grafik](https://user-images.githubusercontent.com/16635729/161438419-baf4c8c1-7867-4f3f-a771-42f835c5b881.png)
